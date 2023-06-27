@@ -184,13 +184,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _container: {fileID: 2098903225}
-  _capacity: 5
-  _prefab: {fileID: 2756393806602945412, guid: 4231e1f66bff1a1489ac19b36ac752ed, type: 3}
+  _capacity: 3
+  _barrel: {fileID: -7578876701924277237, guid: 4231e1f66bff1a1489ac19b36ac752ed, type: 3}
   _spawnPoints:
   - {fileID: 1483682921}
   - {fileID: 266973981}
   - {fileID: 1804138600}
   _spawnTimeOut: 2
+  _isSpawning: 1
 --- !u!4 &553387926
 Transform:
   m_ObjectHideFlags: 0
